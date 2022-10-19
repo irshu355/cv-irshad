@@ -17,7 +17,7 @@
         <meta name="twitter:title" property="og:title" itemprop="name" content="User Irshu">
         <meta name="twitter:description" property="og:description" itemprop="description" content="Stack Overflow | The World’s Largest Online Community for Developers">
 
-        <script async="" src="./index_files/beacon.js.download"></script><script async="" src="./index_files/analytics.js.download"></script><script async="" src="./index_files/beacon.js(1).download"></script><script async="" src="./index_files/analytics.js(1).download"></script><script async="" src="./index_files/beacon.js(1).download"></script><script async="" src="./index_files/analytics.js(1).download"></script><script async="" src="./index_files/beacon.js(2).download"></script><script async="" src="./index_files/analytics.js(2).download"></script><script async="" src="./index_files/beacon.js(3).download"></script><script async="" src="./index_files/analytics.js(3).download"></script><script async="" src="./index_files/beacon.js(4).download"></script><script async="" src="./index_files/analytics.js(4).download"></script><script async="" src="./index_files/beacon.js(5).download"></script><script async="" src="./index_files/analytics.js(5).download"></script><script async="" src="./index_files/beacon.js(6).download"></script><script async="" src="./index_files/analytics.js(6).download"></script><script async="" src="./index_files/beacon.js(7).download"></script><script async="" src="./index_files/analytics.js(7).download"></script><script async="" src="./index_files/beacon.js(8).download"></script><script async="" src="./index_files/analytics.js(8).download"></script><script async="" src="./index_files/beacon.js(9).download"></script><script async="" src="./index_files/analytics.js(9).download"></script><script async="" src="./index_files/beacon.js(10).download"></script><script async="" src="./index_files/analytics.js(10).download"></script><script async="" src="./index_files/beacon.js(11).download"></script><script async="" src="./index_files/analytics.js(11).download"></script><script async="" src="./index_files/beacon.js(12).download"></script><script async="" src="./index_files/analytics.js(12).download"></script><script async="" src="./index_files/beacon.js(13).download"></script><script async="" src="./index_files/analytics.js(13).download"></script><script async="" src="./index_files/beacon.js(14).download"></script><script async="" src="./index_files/analytics.js(14).download"></script><script async="" src="./index_files/beacon.js(15).download"></script><script async="" src="./index_files/analytics.js(15).download"></script><script async="" src="./index_files/beacon.js(16).download"></script><script async="" src="./index_files/analytics.js(16).download"></script><script async="" src="./index_files/beacon.js(17).download"></script><script async="" src="./index_files/analytics.js(17).download"></script><script async="" src="./index_files/beacon.js(18).download"></script><script async="" src="./index_files/analytics.js(18).download"></script><script async="" src="./index_files/beacon.js(19).download"></script><script async="" src="./index_files/analytics.js(19).download"></script><script async="" src="./index_files/beacon.js(20).download"></script><script async="" src="./index_files/analytics.js(20).download"></script><script async="" src="./index_files/beacon.js(21).download"></script><script async="" src="./index_files/analytics.js(21).download"></script><script src="./index_files/jquery.min.js.download"></script>
+        <script async="" src="./index_files/beacon.js.download"></script><script async="" src="./index_files/analytics.js.download"></script><script async="" src="./index_files/beacon.js(1).download"></script><script async="" src="./index_files/analytics.js(1).download"></script><script async="" src="./index_files/beacon.js(2).download"></script><script async="" src="./index_files/analytics.js(2).download"></script><script async="" src="./index_files/beacon.js(3).download"></script><script async="" src="./index_files/analytics.js(3).download"></script><script async="" src="./index_files/beacon.js(4).download"></script><script async="" src="./index_files/analytics.js(4).download"></script><script async="" src="./index_files/beacon.js(5).download"></script><script async="" src="./index_files/analytics.js(5).download"></script><script async="" src="./index_files/beacon.js(6).download"></script><script async="" src="./index_files/analytics.js(6).download"></script><script async="" src="./index_files/beacon.js(7).download"></script><script async="" src="./index_files/analytics.js(7).download"></script><script async="" src="./index_files/beacon.js(8).download"></script><script async="" src="./index_files/analytics.js(8).download"></script><script async="" src="./index_files/beacon.js(9).download"></script><script async="" src="./index_files/analytics.js(9).download"></script><script async="" src="./index_files/beacon.js(10).download"></script><script async="" src="./index_files/analytics.js(10).download"></script><script async="" src="./index_files/beacon.js(11).download"></script><script async="" src="./index_files/analytics.js(11).download"></script><script async="" src="./index_files/beacon.js(12).download"></script><script async="" src="./index_files/analytics.js(12).download"></script><script async="" src="./index_files/beacon.js(13).download"></script><script async="" src="./index_files/analytics.js(13).download"></script><script async="" src="./index_files/beacon.js(14).download"></script><script async="" src="./index_files/analytics.js(14).download"></script><script async="" src="./index_files/beacon.js(15).download"></script><script async="" src="./index_files/analytics.js(15).download"></script><script async="" src="./index_files/beacon.js(16).download"></script><script async="" src="./index_files/analytics.js(16).download"></script><script async="" src="./index_files/beacon.js(17).download"></script><script async="" src="./index_files/analytics.js(17).download"></script><script async="" src="./index_files/beacon.js(18).download"></script><script async="" src="./index_files/analytics.js(18).download"></script><script async="" src="./index_files/beacon.js(19).download"></script><script async="" src="./index_files/analytics.js(19).download"></script><script async="" src="./index_files/beacon.js(20).download"></script><script async="" src="./index_files/analytics.js(20).download"></script><script src="./index_files/jquery.min.js.download"></script>
         <script src="./index_files/stub.en.js.download"></script>
     
         <link rel="stylesheet" type="text/css" href="./index_files/stacks.css">
@@ -95,12 +95,7 @@
 
 <div class="d-flex ai-center fw-wrap gs16 md:fd-column md:ai-start">
     
-    <a class="flex--item" href="https://stackoverflow.com/users/1155282/irshu">
-        <div class="md:d-none"><img src="./index_files/FdrAt(2).jpg" alt="" width="128" height="128" class="bar-sm bar-md bs-sm"></div>
-        <div class="d-none md:d-block sm:d-none"><img src="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Original/User%20Irshu%20-%20Stack%20Overflow_files/FdrAt(3).jpg" alt="" width="96" height="96" class="bar-sm bar-md bs-sm"></div>
-        <div class="d-none sm:d-block"><img src="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Original/User%20Irshu%20-%20Stack%20Overflow_files/FdrAt(4).jpg" alt="" width="64" height="64" class="bar-sm bar-md bs-sm"></div>
-    </a>
-<div class="flex--item">
+    <div class="flex--item">
         <div class="d-flex ai-center fw-wrap gs8">
             <div class="flex--item mb12 fs-headline2 lh-xs" style="
     font-weight: 900;
@@ -110,7 +105,7 @@
                 </div>
             </div>
         </div>
-                <div class="mb8 fc-black-800 fs-title lh-xs"><span>.NET Developer at</span><span> Turnkey Lender</span></div>
+                <div class="mb8 fc-light fs-title lh-xs"><span>.NET Developer at</span><span> Turnkey Lender</span></div>
 
             <ul class="list-reset s-anchors s-anchors__inherit d-flex fc-light gs8 mln4 fw-wrap">
 
@@ -141,8 +136,7 @@
     position: relative;
     top: -2px;
      
-"><a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/casettemix.com">casettemix.com</a> • <a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/rottmayar.com">rottmayar.com</a> • <a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/canooer.com">irshad.live</a>
- • <a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/canooer.com">canooer.com</a></span></p>
+"><a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/casettemix.com">casettemix.com</a> • <a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/rottmayar.com">rottmayar.com</a> • <a href="file:///C:/Users/irshu/OneDrive/Documents/Work%20Related%20Documents/My%20CV/Altered/canooer.com">canooer.com</a></span></p>
                             </div>
                         </li>
             </ul>
@@ -253,7 +247,6 @@ Open to remote work opportunities.                        </div>
                             <div class="post-tag">.net-core</div>
                             <div class="post-tag">asp.net-core</div>
                                 <div class="post-tag">.net-maui-blazor</div>
-<div class="post-tag">microservices/monolithic</div>
                                     
     <div class="post-tag">winforms</div>
                             <div class="post-tag">tdd</div>
@@ -268,11 +261,10 @@ Open to remote work opportunities.                        </div>
                             
                             
                             <div class="post-tag">c#</div>
-<div class="post-tag">git</div>
                             <div class="post-tag">kafka &amp; rabbitmq</div>
-                            <div class="post-tag">microsoft-azure</div>
-
-
+                            <div class="post-tag">azure-queues</div>
+<div class="post-tag">azure-functions</div>
+<div class="post-tag">azure-appservices</div>
                             
                             
                             
@@ -280,20 +272,18 @@ Open to remote work opportunities.                        </div>
 <div class="post-tag">postgresql</div>
                             <div class="post-tag">entity-framework</div>
 <div class="post-tag">nhibernate</div>
-                            <div class="post-tag">dependency-injection/structuremap</div>
+                            <div class="post-tag">dependency-injection</div>
                             
-                            <div class="post-tag">signalr/websockets</div>
-                            
+                            <div class="post-tag">signalr</div>
+                            <div class="post-tag">websockets</div>
                             <div class="post-tag">active-directory</div>
-<div class="post-tag">identity-server/openid-connect</div>
                             
                             
                             
                             <div class="post-tag">openssl</div>
-                            
-                            <div class="post-tag">quartz.net</div><div class="post-tag">azure-devops</div>
-
-<div class="post-tag">github-workflow</div>
+                            <div class="post-tag">cron</div>
+                            <div class="post-tag">quartz.net</div>
+<div class="post-tag">ci-cd</div>
                     </div>
                 </article><article class="d-flex fd-column mb24">
                     <div class="flex--item mb8">
@@ -346,8 +336,6 @@ Open to remote work opportunities.                        </div>
 <div class="post-tag">singleton</div>
 
 <div class="post-tag">factory-builder</div>
-<div class="post-tag">abstract-factory</div>
-<div class="post-tag">composite</div>
                     </div>
                 </article>
 
@@ -378,14 +366,14 @@ Open to remote work opportunities.                        </div>
                                 <div class="d-flex flex--item mb0">
             
             <div class="d-flex ai-center flex--item2 gs4 mb0" style="
-    flex-basis: 27%;
+    flex-basis: 29%;
 ">
                 <div class="flex--item" title="Stack Overflow">
                    <img src="./index_files/so-badge.png" <="" div=""></div>
 
                 
             </div><div class="d-flex ai-center flex--item2 gs4 mb0" style="
-    flex-basis: 10%;
+    flex-basis: 12%;
 ">
                 <div class="flex--item" title="Stack Overflow">
                     <svg aria-hidden="true" class="native svg-icon iconLogoGlyphSm" width="19" height="22" viewBox="0 0 19 22"><path d="M16 20v-6h2v8H0v-8h2v6h14z" fill="#C1BEBC"></path><path d="m12.72 0-1.57 1.17L17 9.05l1.57-1.18L12.72 0zM4 18h10v-2H4v2zm11.4-7.08L7.86 4.64l1.25-1.5 7.54 6.28-1.25 1.5zm-10-1.91 8.9 4.14.82-1.78-8.9-4.14L5.4 9zm8.63 6.27-9.9-1.67.4-1.92 9.63 1.92-.13 1.67z" fill="#F48024"></path></svg>
@@ -479,8 +467,6 @@ Experience            </h2>
             <span class="flex--item s-tag">kafka</span>
             
             <span class="flex--item s-tag">shell-scripting</span>
-<span class="flex--item s-tag">mssql</span>
-<span class="flex--item s-tag">postgresql</span>
     </div>
 
                         </div><div class="fc-black-800 fs-body2 mb16">Responsibilities</div>
@@ -541,41 +527,31 @@ Experience            </h2>
                         
 
                             <div class="fs-body1 fc-black-700">
-                                <p style="
-    padding: 5px;
-    background: #eee;
-    display: inline-block;
-    border-radius: 1px;
-    margin-bottom: 3px;
-"><i>🥉 Received Silver award for exceptional performance in implementing DKSH JustPay Global Payment Gateway</i></p>
+                                <p><strong>🥉 Received Silver award for exceptional performance in implementing DKSH JustPay Global Payment Gateway</strong></p>
 <p>DKSH is a Swiss Market Expansion Services Group who manufacture healthcare, home and consumer goods products. With a market cap of 3.06B CHF, As a SIX Swiss Exchange listed company, we maintain a vast number of warehouses and complex logistics across Asia and Europe. Headquartered in Zurich, DKSH employs 33,000 employees across Asia Pacific and Europe.</p>
 <div class="fc-black-800 fs-body2 mb16">Tech Stack</div>
 
 <div class="mtn8 mb16">
                                 <div class="timeline-item-tags d-flex gs4 fl-none fw-wrap mt16">
             <span class="flex--item s-tag">asp.net-core</span>
-            
+            <span class="flex--item s-tag">android</span>
             <span class="flex--item s-tag">entity-framework</span>
-            
+            <span class="flex--item s-tag">c#</span>
             <span class="flex--item s-tag">javascript</span>
             <span class="flex--item s-tag">css</span>
             <span class="flex--item s-tag">jquery</span>
             <span class="flex--item s-tag">angular</span>
-<span class="flex--item s-tag">mssql</span>
-<span class="flex--item s-tag">microsoft-azure</span>
             <span class="flex--item s-tag">cryptography</span>
-            
-            
-            <span class="flex--item s-tag">jenkins</span>
+            <span class="flex--item s-tag">paypal-sandbox</span>
+            <span class="flex--item s-tag">paypal-rest-sdk</span>
+            <span class="flex--item s-tag">unit-testing</span>
             <span class="flex--item s-tag">openssl</span>
-            <span class="flex--item s-tag">signalr/websocket</span>
-            
+            <span class="flex--item s-tag">websocket</span>
+            <span class="flex--item s-tag">signalr</span>
             <span class="flex--item s-tag">jwt</span>
             <span class="flex--item s-tag">rabbitmq</span>
-<span class="flex--item s-tag">quartz.net</span>
             <span class="flex--item s-tag">cron</span>
             <span class="flex--item s-tag">public-key-encryption</span>
-<span class="flex--item s-tag">azure-devops</span>
     </div>
 
                         </div><div class="fc-black-800 fs-body2 mb16">Achievements</div>
@@ -630,17 +606,12 @@ Experience            </h2>
 
                         <div class="mtn8 mb16">
                                 <div class="timeline-item-tags d-flex gs4 fl-none fw-wrap mt16">
-            
-            
-            
-            
             <span class="flex--item s-tag">android</span>
-<span class="flex--item s-tag">dagger</span>
-<span class="flex--item s-tag">asp.net-core</span>
+            <span class="flex--item s-tag">android-studio</span>
+            <span class="flex--item s-tag">rx-android</span>
+            <span class="flex--item s-tag">dagger-2</span>
+            <span class="flex--item s-tag">asp.net-core</span>
             <span class="flex--item s-tag">c#</span>
-    <span class="flex--item s-tag">html5/css3/javascript</span>
-<span class="flex--item s-tag">vue.js</span>
-<span class="flex--item s-tag">jenkins</span>
     </div>
 
                         </div>
@@ -704,7 +675,6 @@ Experience            </h2>
             <span class="flex--item s-tag">css3</span>
             <span class="flex--item s-tag">asp.net-web-api</span>
             <span class="flex--item s-tag">angularjs</span>
-<span class="flex--item s-tag">git</span>
             <span class="flex--item s-tag">entity-framework</span>
     </div>
 
@@ -774,15 +744,7 @@ Education            </h2>
                                 <h4 class="flex--item mb8 fs-body2 fc-black-500">Asia Pacific University College of Technology and Innovation</h4>
 
                             <div class="flex--item mb8">
-                                    <span class="fs-caption fc-black-700">Oct 2010 → Apr 2011</span><span class="fs-caption fc-black-700" style="
-    margin-left: 5px;
-    padding: 0px 2px 2px 2px;
-    font-size: 11px !important;
-    background: #d66e84;
-    color: #fff !important;
-    border-radius: 1px;
-    border: 1px solid #fc8b8b;
-">Dropout</span>
+                                    <span class="fs-caption fc-black-700">Oct 2010 → Apr 2011</span>
                             </div>
 
                         <div class="mtn8 mb16">
@@ -1108,7 +1070,7 @@ Personal Projects            </h2>
     position: relative;
 ">
     <div>
-<p><strong>Date:</strong> 20 October, 2022</p>
+<p><strong>Date:</strong> 11 October, 2022</p>
         <div style="
     position: absolute;
     top: -35px;
